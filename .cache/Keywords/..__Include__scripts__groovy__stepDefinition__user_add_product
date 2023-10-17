@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B29D5D0DC8E35D537B0A78E5788C6F8D",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_add_product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

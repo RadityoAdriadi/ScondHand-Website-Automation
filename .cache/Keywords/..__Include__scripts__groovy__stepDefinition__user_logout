@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "5BD17912EC70DB1B6883717AC4C24408",
+=======
+  "keywordFileContentHash": "9C8BFCDC8C77BC41E13BFEF94EF9A3D7",
+>>>>>>> e0b8ae624edf176f8446aec0009bbeaba8f31b8c
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_logout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

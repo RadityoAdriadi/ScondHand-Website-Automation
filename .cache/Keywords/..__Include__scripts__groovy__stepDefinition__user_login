@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "410570BC94850012794A3606A393F545",
+=======
+  "keywordFileContentHash": "C2B9C68A91B7D88115C060F4DE802451",
+>>>>>>> e0b8ae624edf176f8446aec0009bbeaba8f31b8c
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8AB5DFC2269D370EEA1A718F9CED6A9D",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_click_notification",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

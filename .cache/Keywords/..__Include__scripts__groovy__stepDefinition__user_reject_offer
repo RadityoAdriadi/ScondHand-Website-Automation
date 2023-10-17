@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "ED39F864D1A66FBF2A9C8792ACE27AB7",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_reject_offer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "2B35CA8A2B3083E287D19DE0934ABB4F",
+=======
+  "keywordFileContentHash": "FADB22050E8A12E501037C92AB2B98D0",
+>>>>>>> 188b85fd877ecc38f143906cf1302e23b6c9dab3
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_want_to_response_offer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

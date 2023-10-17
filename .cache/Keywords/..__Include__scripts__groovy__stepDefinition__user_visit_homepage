@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "E26B8734B2D5DE4BF6E01ABF8E07AC42",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.user_visit_homepage",
+      "keywordMethods": []
+    }
+  ],
+<<<<<<< HEAD
+  "javadocParsed": true
+=======
+  "javadocParsed": false
+>>>>>>> e0b8ae624edf176f8446aec0009bbeaba8f31b8c
+}
